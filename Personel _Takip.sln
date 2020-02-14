@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personel _Takip", "PersonelTakip\Personel _Takip.csproj", "{A9528E81-D519-43EA-8581-A1183F36F0A2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Personel Takip Setup", "Personel Takip Setup\Personel Takip Setup.vdproj", "{14960353-7665-4C9B-B333-EF6725B3A4B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Personel Takip Setup V.1.1", "Personel Takip Setup V.1.1\Personel Takip Setup V.1.1.vdproj", "{9B8BE1DC-091C-4F1A-BBFB-ACD6DE12D619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9528E81-D519-43EA-8581-A1183F36F0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9528E81-D519-43EA-8581-A1183F36F0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9528E81-D519-43EA-8581-A1183F36F0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9528E81-D519-43EA-8581-A1183F36F0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14960353-7665-4C9B-B333-EF6725B3A4B0}.Debug|Any CPU.ActiveCfg = Debug
+		{14960353-7665-4C9B-B333-EF6725B3A4B0}.Release|Any CPU.ActiveCfg = Release
+		{9B8BE1DC-091C-4F1A-BBFB-ACD6DE12D619}.Debug|Any CPU.ActiveCfg = Debug
+		{9B8BE1DC-091C-4F1A-BBFB-ACD6DE12D619}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D89D699-E394-476E-9B0D-D74C6BA3E00D}
+	EndGlobalSection
+EndGlobal
